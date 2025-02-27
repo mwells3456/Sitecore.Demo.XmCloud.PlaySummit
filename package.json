@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sitecore-cloudsdk/personalize": "^0.5.0"
+  }
+}
